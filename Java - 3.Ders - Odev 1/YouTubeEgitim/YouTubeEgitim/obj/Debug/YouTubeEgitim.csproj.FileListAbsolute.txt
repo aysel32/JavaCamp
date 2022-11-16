@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\YouTubeEgitim\YouTubeEgitim\bin\Debug\YouTubeEgitim.exe.config
+C:\Users\pc\Desktop\YouTubeEgitim\YouTubeEgitim\bin\Debug\YouTubeEgitim.exe
+C:\Users\pc\Desktop\YouTubeEgitim\YouTubeEgitim\bin\Debug\YouTubeEgitim.pdb
+C:\Users\pc\Desktop\YouTubeEgitim\YouTubeEgitim\obj\Debug\YouTubeEgitim.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\YouTubeEgitim\YouTubeEgitim\obj\Debug\YouTubeEgitim.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\YouTubeEgitim\YouTubeEgitim\obj\Debug\YouTubeEgitim.exe
+C:\Users\pc\Desktop\YouTubeEgitim\YouTubeEgitim\obj\Debug\YouTubeEgitim.pdb

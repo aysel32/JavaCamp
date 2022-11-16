@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\YouTubeDemo\YouTubeDemo\bin\Debug\YouTubeDemo.exe.config
+C:\Users\pc\Desktop\YouTubeDemo\YouTubeDemo\bin\Debug\YouTubeDemo.exe
+C:\Users\pc\Desktop\YouTubeDemo\YouTubeDemo\bin\Debug\YouTubeDemo.pdb
+C:\Users\pc\Desktop\YouTubeDemo\YouTubeDemo\obj\Debug\YouTubeDemo.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\YouTubeDemo\YouTubeDemo\obj\Debug\YouTubeDemo.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\YouTubeDemo\YouTubeDemo\obj\Debug\YouTubeDemo.exe
+C:\Users\pc\Desktop\YouTubeDemo\YouTubeDemo\obj\Debug\YouTubeDemo.pdb
